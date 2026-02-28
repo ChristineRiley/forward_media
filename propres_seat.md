@@ -33,11 +33,12 @@ The songs should already be loaded in the correct section in ProPres.
 1. Setup teaching slides from Dropbox
 1. Verify the bible function is set to display appropriately
 1. Get any clarification needed from Worship team
-1. **15m before Service**: Turn off center lights
-1. **15m before Service**: Ensure the pre-service slide deck has started
-1. **15m before Service**: Set stage Display to pre-service(main output with clocks)
-1. **15m before Service**: Start Spotify pre-service playlist
-1. **15m before Service**: Verify that the countdown has started(automated)
+1. **15m before Service**:
+   - Turn off center lights
+   - Ensure the pre-service slide deck has started
+   - Set stage Display to pre-service(main output with clocks)
+   - Start Spotify pre-service playlist
+   - Verify that the countdown has started(automated)
 1. **5m before Service**: Turn off side lights
 
 
