@@ -31,11 +31,15 @@ The songs should already be loaded in the correct section in ProPres.
 ### Between Practice and Service
 
 1. Setup teaching slides from Dropbox
+1. Verify the bible function is set to display appropriately
 1. Get any clarification needed from Worship team
 1. **15m before Service**: Turn off center lights
 1. **15m before Service**: Ensure the pre-service slide deck has started
+1. **15m before Service**: Set stage Display to pre-service(main output with clocks)
 1. **15m before Service**: Start Spotify pre-service playlist
+1. **15m before Service**: Verify that the countdown has started(automated)
 1. **5m before Service**: Turn off side lights
+
 
 ### 9:00 and 11:00am: Service Start
 
@@ -59,9 +63,10 @@ The songs should already be loaded in the correct section in ProPres.
 ### Teaching
 
 1. Pay attention and be ready to assist Clint or any other teacher.
+1. Verify the stage display is set to teaching for Clint
 1. In general Clint drives this section, but sometimes asks for a slide or follow along.
 
 ### 10:28am and 12:28pm: End of service
 
-1. Be ready to start Spotify end of service playlist
+1. When Clint plays the pads start Spotify end of service playlist
 1. Start end service slide loop
